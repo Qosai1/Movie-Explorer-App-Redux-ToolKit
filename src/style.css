@@ -127,11 +127,14 @@
    
 }
 .dark-mode .header{
-     background-color: #1e1e1e;
+     background-color: #070707;
      
 }
+.dark-mode .navLink{
+     background-color: rgb(41, 40, 40);
+}
 .dark-mode .modeButton{
-   background-color: black;
+   background-color: rgb(41, 40, 40);
 }
 .search{
  display: flex;
@@ -167,7 +170,7 @@ height: 50px;
   box-shadow: 5px 5px 5px black;
 }
 .dark-mode .search_card{
-    background-color: black;
+    background-color: rgb(28, 26, 26);
 
 }
 .dark-mode .card_details{
@@ -284,8 +287,6 @@ height: 50px;
 }
 }
 .BackTop{
-
-
   position: fixed;
   right: 16px;
   bottom: 16px;
